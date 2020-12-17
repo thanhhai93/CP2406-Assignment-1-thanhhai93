@@ -1,9 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="src" type="Application" factoryName="Application">
-    <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/liberica-14.0.2" />
-    <module name="CP2406-2020-SP2-CodingAssignment1" />
-    <method v="2">
-      <option name="Make" enabled="true" />
-    </method>
-  </configuration>
-</component>
